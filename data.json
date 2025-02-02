@@ -173,7 +173,12 @@
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
         "sourceCodeLink": "https://github.com/codeguyakash/RandomPassword",
         "demoLink": "https://codeguyakash.github.io/RandomPassword/",
-        "color": "#fc7428"
+        "color": "#fc7428",
+        "skills": [
+            "HTML ",
+            "CSS ",
+            "JavaScript ",
+        ]
     },
     {
         "projectId": 12,
