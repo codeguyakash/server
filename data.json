@@ -2,6 +2,104 @@
     {
         "projectId": 1,
         "id": 1,
+        "title": "Prowtech (Campaign Management Platform)",
+        "description": "A complete CMS-based solution to manage and run digital advertisement campaigns on mall display screens.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash",
+        "demoLink": "http://prowtech.zenoheal.com",
+        "color": "#f9f4da",
+        "skills": [
+            "Angular.js ",
+            "Tailwind CSS ",
+            "API's ",
+            "Figma"
+        ]
+    },
+    {
+        "projectId": 2,
+        "id": 2,
+        "title": "Prowtech (Android App)",
+        "description": "Developed a custom Android application using React Native, installed on mall screen devices.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash",
+        "demoLink": "http://prowtech.zenoheal.com",
+        "color": "#f9f4da",
+        "skills": [
+            "React Native",
+            "API's",
+            "WebSocket",
+            "Kotlin"
+        ]
+    },
+    {
+        "projectId": 3,
+        "id": 3,
+        "title": "Solar By Luminous (Vendor Feedback Dashboard)",
+        "description": "Developed an internal feedback system for Luminous to manage and track behavioral feedback between vendors and employees.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash",
+        "demoLink": "https://vendors.luminousindia.com",
+        "color": "#f9f4da",
+        "skills": [
+            "Angular.js ",
+            "Tailwind CSS ",
+            "API's ",
+            "Figma"
+        ]
+    },
+    {
+        "projectId": 4,
+        "id": 4,
+        "title": "Viccare Victoriavn (E-commerce Health App)",
+        "description": "An online healthcare platform where patients can book appointments with doctors for both individual and corporate needs.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash",
+        "demoLink": "https://vendors.luminousindia.com",
+        "color": "#f9f4da",
+        "skills": [
+            "React.js (Vite)",
+            "Tailwind CSS ",
+            "API's ",
+            "Figma"
+        ]
+    },
+    {
+        "projectId": 5,
+        "id": 5,
+        "title": "Image Detect Tool",
+        "description": "Integrate Google Vision API to detect Objects and Labels from Images. I developed a tool using Google Vision API to detect individuals in truck cabins or at Dharam Kanta panels. Enhanced security and accuracy in weighing trucks and heavy vehicles.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash/image-annotation",
+        "demoLink": "https://image-annotation-9d63.onrender.com",
+        "color": "#f9f4da",
+        "skills": [
+            "Node.js ",
+            "Express.js ",
+            "Tailwind CSS ",
+            "Google API's",
+            "EJS Template Engine"
+        ]
+    },
+    {
+        "projectId": 6,
+        "id": 6,
+        "title": "Google Docs Adv",
+        "description": "I implemented a user-friendly interface with features like text formatting, document saving, and sharing.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash/google-docs-node",
+        "demoLink": "https://google-docs-node.onrender.com",
+        "color": "#f9f4da",
+        "skills": [
+            "Node.js ",
+            "Express.js ",
+            "Tailwind CSS ",
+            "Google API's",
+            "EJS Template Engine"
+        ]
+    },
+    {
+        "projectId": 7,
+        "id": 7,
         "title": "Broadmail (Bulk Emails)",
         "description": "The frontend is a user-friendly React.js interface, integrating NextAuth.js for secure Google authentication. It's designed for easy navigation, responsive layouts, and seamless CSV file uploads for bulk email sending.",
         "imgUrl": "",
@@ -19,8 +117,8 @@
         ]
     },
     {
-        "projectId": 2,
-        "id": 2,
+        "projectId": 8,
+        "id": 8,
         "title": "URL Shortener",
         "description": "A simple and efficient URL shortener web application built with Node.js and Express.js. It allows users to input a long URL and receive a shortened version for easier sharing. The application uses MongoDB for data storage and Tailwind CSS for a clean, responsive design.",
         "imgUrl": "",
@@ -36,25 +134,8 @@
         ]
     },
     {
-        "projectId": 3,
-        "id": 3,
-        "title": "Notion Landing Page",
-        "description": "A clone of Notion's landing page created as part of an assignment. This project showcases a responsive design and clean layout Reactjs and CSS.",
-        "imgUrl": "",
-        "sourceCodeLink": "https://github.com/codeguyakash/HireQuotient-Assignment",
-        "demoLink": "https://codeguyakash-notion-clone.vercel.app/",
-        "color": "#12b5e5",
-        "skills": [
-            "Node.js ",
-            "Express.js ",
-            "MongoDB ",
-            "JWT ",
-            "Bcrypt "
-        ]
-    },
-    {
-        "projectId": 4,
-        "id": 4,
+        "projectId": 9,
+        "id": 9,
         "title": "Backend Safe Notes",
         "description": "Our application exposes APIs that allow users to perform CRUD operations. Users can create, read, update, and delete data records effortlessly through these endpoints. Additionally, our application includes User Registration APIs.",
         "imgUrl": "",
@@ -70,8 +151,8 @@
         ]
     },
     {
-        "projectId": 5,
-        "id": 5,
+        "projectId": 10,
+        "id": 10,
         "title": "Note Create Web Application",
         "description": "This is a Note Create Web application where users can perform CRUD operations like Create, Read, Update, and Delete Notes. It is built using ReactJS.",
         "imgUrl": "",
@@ -87,24 +168,8 @@
         ]
     },
     {
-        "projectId": 6,
-        "id": 6,
-        "title": "Shopping Website",
-        "description": "A React-based web application that fetches and displays available products using APIs. It provides a seamless shopping experience with a clean and responsive design.",
-        "imgUrl": "",
-        "sourceCodeLink": "https://github.com/codeguyakash/Shoping-Website",
-        "demoLink": "https://codeguyakash.github.io/Shoping-Website/",
-        "color": "#7b5ea7",
-        "skills": [
-            "React.js ",
-            "CSS ",
-            "JavaScript ",
-            "Axios "
-        ]
-    },
-    {
-        "projectId": 7,
-        "id": 7,
+        "projectId": 11,
+        "id": 11,
         "title": "News Application",
         "description": "A dynamic news web application using HTML, CSS, and JavaScript. It seamlessly integrates with a News API to provide real-time news updates. Users can stay informed with the latest headlines and articles in a user-friendly and responsive interface.",
         "imgUrl": "",
@@ -119,8 +184,8 @@
         ]
     },
     {
-        "projectId": 8,
-        "id": 8,
+        "projectId": 12,
+        "id": 12,
         "title": "Neumorphic Calculator",
         "description": "A Neumorphic Design Calculator created using HTML, CSS, and JavaScript.",
         "imgUrl": "",
@@ -134,9 +199,9 @@
         ]
     },
     {
-        "projectId": 9,
-        "id": 9,
-        "title": "Portfolio",
+        "projectId": 13,
+        "id": 13,
+        "title": "Portfolio (HTML & CSS) 1",
         "description": "This is my first portfolio created using HTML and CSS.",
         "imgUrl": "",
         "sourceCodeLink": "https://github.com/codeguyakash/akash",
@@ -149,8 +214,23 @@
         ]
     },
     {
-        "projectId": 10,
-        "id": 10,
+        "projectId": 14,
+        "id": 14,
+        "title": "Portfolio (HTML & CSS) 2",
+        "description": "This is my second portfolio created using HTML and CSS.",
+        "imgUrl": "",
+        "sourceCodeLink": "https://github.com/codeguyakash/akash",
+        "demoLink": "https://codeguyakash.github.io/akash/",
+        "color": "#ed203d",
+        "skills": [
+            "HTML ",
+            "CSS ",
+            "JavaScript "
+        ]
+    },
+    {
+        "projectId": 15,
+        "id": 15,
         "title": "Don't Click 😁 (Hacking Tool)",
         "description": "Capture user IP and live location effortlessly on our website. With Elastic Mail SMTP integration, receive this data securely in your email for instant access to valuable geolocation insights.",
         "imgUrl": "",
@@ -166,29 +246,14 @@
         ]
     },
     {
-        "projectId": 11,
-        "id": 11,
+        "projectId": 16,
+        "id": 16,
         "title": "Random Password Generator",
         "description": "A simple Random Password Generator created using HTML, CSS, and JavaScript.",
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
         "sourceCodeLink": "https://github.com/codeguyakash/RandomPassword",
         "demoLink": "https://codeguyakash.github.io/RandomPassword/",
         "color": "#fc7428",
-        "skills": [
-            "HTML ",
-            "CSS ",
-            "JavaScript "
-        ]
-    },
-    {
-        "projectId": 12,
-        "id": 12,
-        "title": "MDN Clone",
-        "description": "A simple clone of the MDN page created using HTML and CSS.",
-        "imgUrl": "",
-        "sourceCodeLink": "https://github.com/codeguyakash/mdn",
-        "demoLink": "https://codeguyakash.github.io/mdn/",
-        "color": "#7b5ea7",
         "skills": [
             "HTML ",
             "CSS ",
