@@ -6,7 +6,7 @@
         "description": "The frontend is a user-friendly React.js interface, integrating NextAuth.js for secure Google authentication. It's designed for easy navigation, responsive layouts, and seamless CSV file uploads for bulk email sending.",
         "imgUrl": "",
         "sourceCodeLink": "https://github.com/codeguyakash/broadmail",
-        "demoLink": "https://broadmail.codeguyakash.me/",
+        "demoLink": "https://broadmail.vercel.app",
         "color": "#f9f4da",
         "skills": [
             "Node.js ",
@@ -25,7 +25,7 @@
         "description": "A simple and efficient URL shortener web application built with Node.js and Express.js. It allows users to input a long URL and receive a shortened version for easier sharing. The application uses MongoDB for data storage and Tailwind CSS for a clean, responsive design.",
         "imgUrl": "",
         "sourceCodeLink": "https://github.com/codeguyakash/url-shorten",
-        "demoLink": "https://url.codeguyakash.me/",
+        "demoLink": "https://url.codeguyakash.in",
         "color": "#ed203d",
         "skills": [
             "Node.js ",
@@ -58,8 +58,8 @@
         "title": "Backend Safe Notes",
         "description": "Our application exposes APIs that allow users to perform CRUD operations. Users can create, read, update, and delete data records effortlessly through these endpoints. Additionally, our application includes User Registration APIs.",
         "imgUrl": "",
-        "sourceCodeLink": "https://github.com/codeguyakash/Note_Application_BE",
-        "demoLink": "null",
+        "sourceCodeLink": "https://github.com/codeguyakash/notesapp-backend",
+        "demoLink": "https://note-application-be.onrender.com",
         "color": "#0ba95b",
         "skills": [
             "Node.js ",
@@ -75,8 +75,8 @@
         "title": "Note Create Web Application",
         "description": "This is a Note Create Web application where users can perform CRUD operations like Create, Read, Update, and Delete Notes. It is built using ReactJS.",
         "imgUrl": "",
-        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
-        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "sourceCodeLink": "https://github.com/codeguyakash/safenotes",
+        "demoLink": "https://safenotes-five.vercel.app/",
         "color": "#fc7428",
         "skills": [
             "React.js ",
