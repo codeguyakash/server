@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/codeguyakash/server/main/filename_here
+https://raw.githubusercontent.com/codeguyakash/assets/main/filename_here
